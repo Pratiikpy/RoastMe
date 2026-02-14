@@ -43,6 +43,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" data-theme="dark">
+      <head>
+        <meta name="base:app_id" content="69907d8c7ca07f5750bbd960" />
+      </head>
       <body
         className={`${inter.className} ${spaceGrotesk.variable} antialiased min-h-screen text-[var(--text-primary)]`}
         style={{ background: "var(--body-gradient, var(--background))" }}

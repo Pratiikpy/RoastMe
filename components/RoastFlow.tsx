@@ -391,13 +391,13 @@ export function RoastFlow({
             </div>
           </div>
           <p className="text-sm text-orange-200/60">
-            Search for a Farcaster user and unleash the AI on their profile.
+            Search for a user and unleash the AI on their profile.
           </p>
         </button>
 
         {!userFid && (
           <p className="text-center text-sm text-amber-300/70">
-            Open in Farcaster to start roasting
+            Sign in to start roasting
           </p>
         )}
       </div>

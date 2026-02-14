@@ -27,11 +27,11 @@ export const metadata: Metadata = {
   ),
   title: "Onchain Roast Me",
   description:
-    "AI-powered roast generator on Base. Get roasted based on your Farcaster profile.",
+    "AI-powered roast generator on Base. Get roasted based on your social profile.",
   openGraph: {
     title: "Onchain Roast Me",
     description:
-      "AI just roasted someone based on their Farcaster profile. Can you handle the heat?",
+      "AI just roasted someone based on their social profile. Can you handle the heat?",
     images: ["/og.png"],
   },
 };

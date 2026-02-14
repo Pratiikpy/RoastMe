@@ -13,7 +13,7 @@ const STEPS = [
     emoji: "\uD83D\uDD25",
     title: "Welcome to Onchain Roast Me!",
     description:
-      "AI reads your Farcaster profile — your bio, casts, and vibe — then generates a brutal (but funny) roast.",
+      "AI reads your profile — your bio, posts, and vibe — then generates a brutal (but funny) roast.",
   },
   {
     emoji: "\uD83C\uDFA4",

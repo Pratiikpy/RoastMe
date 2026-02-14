@@ -34,7 +34,7 @@ export default function ProfilePage() {
           {!userFid ? (
             <div className="text-center py-16 text-orange-200/50">
               <p className="text-4xl mb-4">{"\uD83D\uDD25"}</p>
-              <p>Open in Farcaster to see your profile</p>
+              <p>Sign in to see your profile</p>
             </div>
           ) : (
             <>
